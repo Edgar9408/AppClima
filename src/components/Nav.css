@@ -1,0 +1,26 @@
+#clima {
+  margin-right: 20px;
+  margin-left: 10px;
+}
+.navBar{
+  display: flex;
+  Height:50px;
+  background-color: rgb(54, 54, 54);
+  justify-content: space-around;
+  align-items: center;
+}
+
+.icon{
+  Height:40px;
+}
+
+.IconTittle{
+  display: flex;
+  justify-self: flex-start;
+}
+.h4{
+  color:white;
+  margin-top: 3px;
+}
+
+
